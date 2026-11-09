@@ -37,4 +37,10 @@ python3 -m http.server 8765 --bind 127.0.0.1
 
 ## 发布
 
-将本目录（不含 README 和预览截图也可）上传至任意静态网站托管服务即可，如 GitHub Pages、Cloudflare Pages 或 Netlify。无需构建命令，发布目录为本目录。本次仅生成本地文件，尚未发布到互联网。
+将本目录（不含 README 和预览截图也可）上传至任意静态网站托管服务即可，如 GitHub Pages、Cloudflare Pages 或 Netlify。无需构建命令，发布目录为本目录。已于 2026-11-09 部署至 GitHub Pages。
+
+- 访问网址：https://cynthialau007.github.io/fengwei-liu-website/
+- GitHub 仓库：https://github.com/cynthialau007/fengwei-liu-website
+- 发布来源：`main` 分支根目录。
+
+后续更新：在 GitHub 仓库上传或修改对应的网站文件并提交到 `main`，GitHub Pages 将自动重新发布。仅修改本地文件不会自动同步上线。桌面上的原有入口仍打开本地版本。
