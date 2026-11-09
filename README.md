@@ -1,6 +1,6 @@
 # Fengwei Liu · 个人网站
 
-根据《刘丰玮简历【完整版】.docx》制作的中文个人学术网站。纯 HTML、CSS 和 JavaScript，无须安装依赖，电脑与手机均可浏览。
+根据《个人简历【完整版】.docx》制作的中文个人学术网站。纯 HTML、CSS 和 JavaScript，无须安装依赖，电脑与手机均可浏览。
 
 ## 预览
 
