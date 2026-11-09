@@ -1,0 +1,5 @@
+# 本机入口与预览文件不上传
+*.webloc
+预览-*.png
+.DS_Store
+Thumbs.db
